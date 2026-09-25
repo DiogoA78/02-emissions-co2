@@ -62,7 +62,7 @@ jupyter notebook notebooks/01_eda_emissions.ipynb
 
 ## 📊 Dashboard interactif
 
-> [🔗 Voir le dashboard sur Looker Studio](URL_DU_DASHBOARD)
+> [🔗 Voir le dashboard sur Looker Studio](https://datastudio.google.com/reporting/70699da7-6fab-4258-ac49-fd838de70b95)
 
 Le dashboard permet d'explorer les données via 4 pages :
 - **Vue d'ensemble** — KPIs mondiaux, évolution globale, top émetteurs
